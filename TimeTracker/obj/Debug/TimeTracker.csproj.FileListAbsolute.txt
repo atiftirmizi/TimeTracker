@@ -1,0 +1,12 @@
+C:\Users\Atirmizi\source\repos\TimeTracker\bin\Debug\TimeTracker.exe
+C:\Users\Atirmizi\source\repos\TimeTracker\bin\Debug\TimeTracker.exe.config
+C:\Users\Atirmizi\source\repos\TimeTracker\obj\Debug\TimeTracker.FormDomain.resources
+C:\Users\Atirmizi\source\repos\TimeTracker\obj\Debug\TimeTracker.FormIndex.resources
+C:\Users\Atirmizi\source\repos\TimeTracker\obj\Debug\TimeTracker.FormRegister.resources
+C:\Users\Atirmizi\source\repos\TimeTracker\obj\Debug\TimeTracker.FormViewDetails.resources
+C:\Users\Atirmizi\source\repos\TimeTracker\obj\Debug\TimeTracker.Properties.Resources.resources
+C:\Users\Atirmizi\source\repos\TimeTracker\obj\Debug\TimeTracker.csproj.GenerateResource.cache
+C:\Users\Atirmizi\source\repos\TimeTracker\obj\Debug\TimeTracker.exe
+C:\Users\Atirmizi\source\repos\TimeTracker\obj\Debug\TimeTracker.pdb
+C:\Users\Atirmizi\source\repos\TimeTracker\obj\Debug\TimeTracker.csprojAssemblyReference.cache
+C:\Users\Atirmizi\source\repos\TimeTracker\bin\Debug\TimeTracker.pdb
